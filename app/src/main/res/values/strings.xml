@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit-GetFirebase</string>
+    <string name="google_api_key" translatable="false">AIzaSyBv4U7QSoBaDrp8f8WPFsL7LuaEwg_0ZmU</string>
+</resources>
